@@ -38,7 +38,6 @@ A simple **full-stack JavaScript chatbot** built with separate frontend and back
 4. Start the backend server
    ```bash
    npm start
-   ---
    
    This should start the API (for example at http://localhost:3000).
 
