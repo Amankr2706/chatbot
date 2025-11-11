@@ -31,14 +31,18 @@ A simple **full-stack JavaScript chatbot** built with separate frontend and back
 1. Clone the repository
 
 2. Install backend dependencies
+   ```bash
    cd backend
    npm install
 
-3. Start the backend server
+4. Start the backend server
+   ```bash
    npm start
+   ---
+   
    This should start the API (for example at http://localhost:3000).
 
-4. Open the frontend
+6. Open the frontend
    Navigate in your browser to the frontend/index.html file (or if served by the backend, access via http://localhost:3000 or another configured URL).
 
 ---
