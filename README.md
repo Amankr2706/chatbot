@@ -14,7 +14,7 @@ A simple **full-stack JavaScript chatbot** built with separate frontend and back
 
   ---
 
-##🧠 How It Works
+## 🧠 How It Works
 
 - The frontend captures user input and sends it to the backend via a REST API.
 
@@ -47,7 +47,7 @@ A simple **full-stack JavaScript chatbot** built with separate frontend and back
 ---
 
 
-##⚙️ Customization & Extensions
+## ⚙️ Customization & Extensions
 
 - Edit backend logic (e.g., in backend/routes/chat.js or wherever message handling is implemented).
 
@@ -59,7 +59,7 @@ A simple **full-stack JavaScript chatbot** built with separate frontend and back
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 
 - Contributions are welcome! If you plan to make major changes, please open an issue first to discuss your idea. Otherwise:
 
